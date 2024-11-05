@@ -14,5 +14,7 @@ Digital manipulation attacks are generated via publicly available author codes:
 [StarGAN](https://github.com/yunjey/stargan)
 
 [StyleGAN](https://github.com/NVlabs/stylegan2)
+
+[PGGAN](https://github.com/tkarras/progressive_growing_of_gans)
 #### FFHQ
 You can get FFHQ by this [github](https://github.com/NVlabs/ffhq-dataset).
