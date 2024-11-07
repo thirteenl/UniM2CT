@@ -1,7 +1,9 @@
 # UniM2CT
 Unified Face Attack Detection via Hybrid Multi-modal CNN-ViT Network: Enhancing Representation Capability
 ------
-
+## Train
+`python -u train.py >/result `
+------
 ## Datasets
 
 #### SiW-Mv2
