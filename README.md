@@ -2,7 +2,10 @@
 Unified Face Attack Detection via Hybrid Multi-modal CNN-ViT Network: Enhancing Representation Capability
 ------
 ## Train
-`python -u train.py >/result `
+Training code execution:
+```python
+python -u train.py
+```
 ------
 ## Datasets
 
