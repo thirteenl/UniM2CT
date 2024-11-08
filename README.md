@@ -2,9 +2,10 @@
 Unified Face Attack Detection via Hybrid Multi-modal CNN-ViT Network: Enhancing Representation Capability
 ------
 ## Description
+
 -------
 ## Datasets
-These data sets need to be applied to the publisher of the data, and we can only provide relevant application links.
+We are not able to expose these datasets, which is not allowed by the protocol. If you need to use the dataset you should request it from the relevant publisher. We will provide you with a link to apply below.
 #### SiW-Mv2
 You can get SiW-Mv2 by this [github](https://github.com/CHELSEA234/Multi-domain-learning-FAS).
 #### FaceForensics++
