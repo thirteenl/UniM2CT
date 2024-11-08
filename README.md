@@ -3,6 +3,8 @@ Unified Face Attack Detection via Hybrid Multi-modal CNN-ViT Network: Enhancing 
 ------
 ## Description
 
+Based on the two-stream architecture, we propose a novel Multi-modal and Multi-scale feature fusion module(MMF), which consists of multiple attentional architectures and realizes the efficient fusion of information from different modalities and scales. 
+
 -------
 ## Datasets
 We are not able to expose these datasets, which is not allowed by the protocol. If you need to use the dataset you should request it from the relevant publisher. We will provide you with a link to apply below.
