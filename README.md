@@ -1,6 +1,16 @@
 # UniM2CT
 Unified Face Attack Detection via Hybrid Multi-modal CNN-ViT Network: Enhancing Representation Capability
 ------
+## Requirement
+Pillow==9.4.0
+scikit_learn==1.3.2
+scipy~=1.10.0
+timm==0.9.12
+torch==2.1.2+cu118
+torch_dct==0.1.6
+scikit-learn~=1.3.2
+matplotlib==3.6.2
+numpy==1.23.5
 ## Train
 Training code execution:
 ```python
