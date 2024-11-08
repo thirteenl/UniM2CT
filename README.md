@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on the two-stream architecture, we propose a novel Multi-modal and Multi-scale feature fusion module(MMF), which consists of multiple attentional architectures and realizes the efficient fusion of information from different modalities and scales. 
+Based on the two-stream architecture, we propose a novel Multi-modal and Multi-scale feature fusion module(MMF), which consists of multiple attentional architectures and realizes the efficient fusion of information from different modalities and scales. The paper is currently being submitted, and we will publish the detailed structure after submission.
 
 ## Datasets
 We are not able to expose these datasets, which is not allowed by the protocol. If you need to use the dataset you should request it from the relevant publisher. We will provide you with a link to apply below.
