@@ -31,6 +31,8 @@ torch_dct==0.1.6 \
 scikit-learn~=1.3.2 \
 matplotlib==3.6.2 \
 numpy==1.23.5
+## Implementation
+Just download this repository and using PyCharm to open it. 
 ## Train
 Training code execution:
 ```python
