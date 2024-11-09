@@ -18,7 +18,7 @@ from torch.utils.data import DataLoader
 from dataset.FASDataSet import FASDataSet
 from _utils.logging.logger import *
 
-from models.networks.UniM3CT.UniM2CT import UniM2CT
+from models.UniM2CT import create_model
 
 # +----------标签与所属类别----------------+
 attack_type = {'live': [0],
