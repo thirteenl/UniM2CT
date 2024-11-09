@@ -32,9 +32,9 @@ scikit-learn~=1.3.2 \
 matplotlib==3.6.2 \
 numpy==1.23.5
 ## Implementation
-Just download this repository and using PyCharm to open it. 
+Just download this repository and using PyCharm to open it. You can execute the following code to train the model.
 ## Train
 Training code execution:
 ```python
-python -u train.py
+python -u runtrain.py
 ```
